@@ -1,37 +1,47 @@
-"","Applied Sciences","Sensors","Scientific Reports","Electronics","IEEE Access","Energies","SoftwareX","Advances in Science and Technology-Research Journal","Information Sciences","Entropy","International Journal of Electronics and Telecommunications","Bulletin of the Polish Academy of Sciences: Technical Sciences","Expert Systems with Applications","Journal of Artificial Intelligence and Soft Computing Research","International Journal of Applied Mathematics and Computer Science","Applied Soft Computing Journal","Materials","Przegląd Elektrotechniczny","Knowledge-Based Systems","Physical Review Letters","Engineering Applications of Artificial Intelligence","Journal of Clinical Medicine","Sustainability","Bioinformatics","PLoS ONE","Scientific data","Future Generation Computer Systems","Neurocomputing","Pomiary Automatyka Robotyka","Measurement: Journal of the International Measurement Confederation"
-"AGH w Krakowie",17,19,5,15,14,16,11,0,7,2,0,2,1,6,5,5,10,0,5,18,1,0,2,0,0,0,3,1,0,1
-"Inst. Badań Systemowych PAN",1,3,2,3,2,2,3,0,10,3,0,0,0,1,4,3,0,0,0,0,0,1,1,0,1,0,0,0,0,0
-"Inst. Chemii Bioorganicznej PAN",0,0,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2,0,2,3,0,0,0
-"Inst. Informatyki Teoretycznej i Stosowanej PAN",5,4,13,2,4,0,4,0,2,2,0,6,0,1,0,0,0,0,2,0,1,0,0,0,1,0,1,1,0,0
-"Inst. Podstaw Informatyki PAN",0,0,3,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,1,1,0,1,1,0,0
-"Inst. Podstawowych Problemów Techniki PAN",0,1,2,0,0,0,3,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,2
-"Inst. Łączności PIB",7,8,1,0,1,1,13,1,2,0,0,1,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,2
-"Ośrodek Przetwarzania Informacji PIB",2,1,1,0,2,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-"P. Białostocka",13,3,8,1,2,0,1,0,3,11,6,2,2,0,2,2,0,2,0,0,1,0,0,1,0,0,1,1,0,0
-"P. Bydgoska",6,4,9,3,1,0,0,0,1,5,0,1,1,0,0,0,1,0,0,0,2,2,0,0,2,0,0,5,0,1
-"P. Częstochowska",7,4,4,2,1,0,0,0,3,3,0,5,2,16,0,1,2,0,0,0,2,0,0,0,0,0,2,1,0,0
-"P. Gdańska",16,17,11,3,20,5,2,1,2,0,0,0,2,2,1,2,0,0,2,0,1,1,1,1,1,7,2,0,0,0
-"P. Krakowska",7,2,9,1,1,3,3,0,2,5,0,0,0,0,0,2,2,0,0,0,2,1,0,0,2,1,0,1,0,0
-"P. Lubelska",21,5,7,1,9,6,0,31,5,0,0,1,0,0,0,1,4,0,0,0,0,1,2,0,1,0,0,0,0,2
-"P. Morska w Szczecinie",11,2,1,5,0,3,3,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,1,0,0,0,0,1
-"P. Opolska",8,16,5,0,5,3,1,2,0,5,0,3,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,1,3
-"P. Poznańska",20,19,9,7,19,8,10,0,4,5,0,1,1,0,6,4,1,0,3,0,2,0,1,10,1,0,0,0,0,1
-"P. Rzeszowska",6,14,1,12,2,8,6,19,2,0,2,5,1,0,0,2,1,1,1,0,3,0,1,0,1,3,0,0,15,2
-"P. Warszawska",19,27,13,27,10,31,7,0,4,2,26,3,4,0,1,4,0,7,4,16,2,4,1,5,0,3,2,2,3,1
-"P. Wrocławska",22,13,11,5,16,1,1,1,7,4,18,6,9,0,3,5,0,8,7,0,4,0,2,0,1,1,1,5,0,2
-"P. Łódzka",24,24,9,14,7,10,2,2,0,4,0,4,1,0,0,1,4,0,0,0,0,6,0,2,1,0,0,1,0,0
-"P. Śląska",36,43,14,12,14,19,3,2,3,5,0,4,10,0,5,2,5,0,6,0,2,9,3,5,3,4,1,0,0,0
-"SGGW w Warszawie",9,9,3,0,0,7,4,5,1,3,3,6,1,0,2,0,1,3,0,0,1,0,2,0,1,0,0,0,0,0
+"","Applied Sciences","Sensors","Scientific Reports","Electronics","Energies","IEEE Access","SoftwareX","Entropy","Information Sciences","Advances in Science and Technology-Research Journal","International Journal of Electronics and Telecommunications","Bulletin of the Polish Academy of Sciences: Technical Sciences","Expert Systems with Applications","Journal of Artificial Intelligence and Soft Computing Research","International Journal of Applied Mathematics and Computer Science","Applied Soft Computing Journal","Materials","Przegląd Elektrotechniczny","Knowledge-Based Systems","Physical Review Letters","Engineering Applications of Artificial Intelligence","Journal of Clinical Medicine","Sustainability","PLoS ONE","Bioinformatics","Scientific data","Neurocomputing","Measurement: Journal of the International Measurement Confederation","Future Generation Computer Systems","Pomiary Automatyka Robotyka"
+"AGH w Krakowie",17,19,5,15,16,14,11,2,7,0,0,2,1,6,5,5,10,0,5,18,1,0,2,0,0,0,1,1,3,0
+"Akademia z Paradyża",2,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Akademia Śląska",5,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Inst. Badań Systemowych PAN",1,3,2,3,2,2,3,3,10,0,0,0,0,1,4,3,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+"Inst. Chemii Bioorganicznej PAN",0,0,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2,2,0,0,3,0
+"Inst. Informatyki Teoretycznej i Stosowanej PAN",5,4,13,2,0,4,4,2,2,0,0,6,0,1,0,0,0,0,2,0,1,0,0,1,0,0,1,0,1,0
+"Inst. Podstaw Informatyki PAN",0,0,3,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,1,1,0,1,0,1,0
+"Inst. Podstawowych Problemów Techniki PAN",0,1,2,0,0,0,3,0,0,0,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,2,0,0
+"Inst. Łączności PIB",7,8,1,0,1,1,13,0,2,1,0,1,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,2,0,0
+"Lubelska Akademia WSEI",0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+"Naukowa i Akademicka Sieć Komputerowa PIB",2,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ośrodek Przetwarzania Informacji PIB",2,1,1,0,0,2,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"P. Białostocka",13,3,8,1,0,2,1,11,3,0,6,2,2,0,2,2,0,2,0,0,1,0,0,0,1,0,1,0,1,0
+"P. Bydgoska",6,4,9,3,0,1,0,5,1,0,0,1,1,0,0,0,1,0,0,0,2,2,0,2,0,0,5,1,0,0
+"P. Częstochowska",7,4,4,2,0,1,0,3,3,0,0,5,2,16,0,1,2,0,0,0,2,0,0,0,0,0,1,0,2,0
+"P. Gdańska",16,17,11,3,5,20,2,0,2,1,0,0,2,2,1,2,0,0,2,0,1,1,1,1,1,7,0,0,2,0
+"P. Krakowska",7,2,9,1,3,1,3,5,2,0,0,0,0,0,0,2,2,0,0,0,2,1,0,2,0,1,1,0,0,0
+"P. Lubelska",21,5,7,1,6,9,0,0,5,31,0,1,0,0,0,1,4,0,0,0,0,1,2,1,0,0,0,2,0,0
+"P. Morska w Szczecinie",11,2,1,5,3,0,3,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,0,0,1,0,0
+"P. Opolska",8,16,5,0,3,5,1,5,0,2,0,3,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,3,0,1
+"P. Poznańska",20,19,9,7,8,19,10,5,4,0,0,1,1,0,6,4,1,0,3,0,2,0,1,1,10,0,0,1,0,0
+"P. Rzeszowska",6,14,1,12,8,2,6,0,2,19,2,5,1,0,0,2,1,1,1,0,3,0,1,1,0,3,0,2,0,15
+"P. Warszawska",19,27,13,27,31,10,7,2,4,0,26,3,4,0,1,4,0,7,4,16,2,4,1,0,5,3,2,1,2,3
+"P. Wrocławska",22,13,11,5,1,16,1,4,7,1,18,6,9,0,3,5,0,8,7,0,4,0,2,1,0,1,5,2,1,0
+"P. Łódzka",24,24,9,14,10,7,2,4,0,2,0,4,1,0,0,1,4,0,0,0,0,6,0,1,2,0,1,0,0,0
+"P. Śląska",36,43,14,12,19,14,3,5,3,2,0,4,10,0,5,2,5,0,6,0,2,9,3,3,5,4,0,0,1,0
+"Polsko-Japońska Akademia Technik Komputerowych",1,3,0,2,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+"SGGW w Warszawie",9,9,3,0,7,0,4,3,1,5,3,6,1,0,2,0,1,3,0,0,1,0,2,1,0,0,0,0,0,0
 "Społeczna Akademia Nauk w Łodzi",0,0,1,0,0,0,0,0,2,0,0,0,2,17,0,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0
-"U. Bielsko-Bialski",8,10,0,1,1,3,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
-"U. Jagielloński w Krakowie",2,1,4,2,1,2,5,0,4,1,0,0,8,0,2,2,0,0,3,1,0,0,1,0,0,2,0,1,0,1
-"U. Kazimierza Wielkiego w Bydgoszczy",24,7,2,3,0,8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-"U. Komisji Edukacji Narodowej w Krakowie",13,3,0,2,6,1,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
-"U. Marii Curie-Skłodowskiej w Lublinie",2,2,2,1,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0
-"U. Morski w Gdyni",2,1,2,6,7,0,0,2,0,0,5,0,0,0,1,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
-"U. Rzeszowski",10,2,8,0,2,0,1,0,0,3,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
-"U. Warmińsko-Mazurski w Olsztynie",3,2,9,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0
-"U. Zielonogórski w Zielonej Górze",8,2,1,3,1,3,0,0,0,1,0,1,0,0,7,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
-"WAT",14,23,1,8,7,2,4,1,1,3,0,2,1,0,0,0,0,2,0,0,1,0,1,0,1,0,1,0,1,0
+"U. Bielsko-Bialski",8,10,0,1,3,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+"U. Ekonomiczny w Katowicach",4,0,1,3,4,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"U. Ekonomiczny w Poznaniu",0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"U. Jagielloński w Krakowie",2,1,4,2,2,1,5,1,4,0,0,0,8,0,2,2,0,0,3,1,0,0,1,0,0,2,1,1,0,0
+"U. Kardynała Stefana Wyszyńskiego w Warszawie",4,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"U. Kazimierza Wielkiego w Bydgoszczy",24,7,2,3,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"U. Komisji Edukacji Narodowej w Krakowie",13,3,0,2,1,6,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0
+"U. Marii Curie-Skłodowskiej w Lublinie",2,2,2,1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0
+"U. Mikołaja Kopernika w Toruniu",0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+"U. Morski w Gdyni",2,1,2,6,0,7,0,0,0,2,5,0,0,0,1,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+"U. Rzeszowski",10,2,8,0,0,2,1,3,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+"U. Warmińsko-Mazurski w Olsztynie",3,2,9,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0
+"U. Zielonogórski w Zielonej Górze",8,2,1,3,3,1,0,1,0,0,0,1,0,0,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"WAT",14,23,1,8,2,7,4,3,1,1,0,2,1,0,0,0,0,2,0,0,1,0,1,1,0,0,0,0,1,1
 "Wojskowy Instytut Łączności",5,1,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
-"Zachodniopomorski Uniwersytet Technologiczny ...",13,6,3,15,4,2,11,3,6,3,0,1,1,1,1,1,0,0,0,0,1,1,0,0,3,0,1,0,0,0
+"Wyższa Szkoła Informatyki i Zarządzania w Rze...",0,2,1,0,0,1,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Zachodniopomorski Uniwersytet Technologiczny ...",13,6,3,15,2,4,11,3,6,3,0,1,1,1,1,1,0,0,0,0,1,1,0,3,0,0,0,0,1,0

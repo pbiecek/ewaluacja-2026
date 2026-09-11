@@ -1,29 +1,31 @@
-"","Res Historica","Kwartalnik Historyczny","Historia Slavorum Occidentis","Klio. Czasopismo poświęcone dziejom Polski i powszechnym","Dzieje Najnowsze","Saeculum Christianum","Przegląd Historyczny","Archiwa Biblioteki i Muzea Kościelne","Zeszyty Naukowe Uniwersytetu Jagiellońskiego, Prace Historyczne","Przegląd Historyczno-Wojskowy","Roczniki Humanistyczne","Pamięć i Sprawiedliwość","Studia z Dziejów Rosji i Europy Środkowo-Wschodniej","Kwartalnik Historii Nauki i Techniki","UR JOURNAL OF HUMANITIES AND SOCIAL SCIENCES","Kwartalnik Historii Kultury Materialnej","Wschodni Rocznik Humanistyczny","Perspektywy Kultury","Roczniki Dziejów Społecznych i Gospodarczych","Kwartalnik historii nauki i techniki - Kwartal'nyi zhurnal istorii nauki i tekhniki -","Studia Historica Gedanensia","Quaestiones Medii Aevi Novae","Acta Poloniae Historica","Przegląd Nauk Historycznych","Galicja. Studia i materiały","Studia Źródłoznawcze","Tabularium Historiae","Zapiski Historyczne. Poświęcone Historii Pomorza i Krajów Bałtyckich","Rocznik Filozoficzny Ignatianum","Biografistyka Pedagogiczna"
-"Inst. Archeologii i Etnologii PAN",3,5,1,0,0,0,0,0,0,0,0,0,0,2,0,9,0,0,1,1,0,1,0,0,0,0,0,0,0,0
-"Inst. Historii",5,25,4,2,16,0,4,3,1,3,4,4,13,0,0,3,3,0,7,6,3,0,9,0,0,8,0,7,1,0
-"Inst. Historii Nauki imienia Ludwika i Aleksa...",0,0,0,2,2,0,1,2,0,0,0,1,1,38,0,2,0,0,1,2,0,0,0,0,0,0,0,0,0,0
-"Inst. Studiów Politycznych PAN",1,4,0,0,4,0,4,0,0,4,0,1,1,0,0,1,1,0,0,2,0,0,1,0,0,0,0,0,0,1
-"Katolicki Uniwersytet Lubelski Jana Pawła II",6,0,0,1,2,1,1,18,0,3,17,2,1,0,1,1,0,2,0,3,2,1,1,2,0,1,0,0,0,6
-"U. Gdański",0,2,0,5,4,2,0,1,0,1,0,2,1,0,0,2,0,0,1,1,21,4,1,0,1,1,0,1,0,0
-"U. Jagielloński w Krakowie",7,4,10,6,7,2,4,0,42,10,3,2,8,0,1,1,5,10,2,0,0,2,2,1,5,4,1,0,2,0
-"U. Jana Długosza w Częstochowie",2,1,0,1,1,1,0,1,1,2,0,0,1,0,2,1,1,0,0,4,0,0,2,1,0,0,0,0,0,0
-"U. Jana Kochanowskiego w Kielcach",7,2,0,2,1,5,0,3,1,0,3,0,2,0,6,1,0,1,0,1,1,0,1,0,0,0,0,0,2,2
-"U. Kardynała Stefana Wyszyńskiego w Warszawie",2,1,0,1,0,24,2,5,1,0,0,3,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,1,0,0
-"U. Kazimierza Wielkiego w Bydgoszczy",0,5,1,0,2,0,0,1,1,1,2,1,3,0,0,0,0,0,0,1,2,2,0,0,0,1,21,1,1,0
-"U. Komisji Edukacji Narodowej w Krakowie",11,1,2,7,5,4,1,2,1,1,2,4,3,0,0,4,4,2,2,0,0,0,0,1,1,0,0,1,1,0
-"U. Marii Curie-Skłodowskiej w Lublinie",67,1,3,2,1,4,1,0,0,0,2,3,1,1,0,3,2,2,0,0,0,4,0,0,0,1,0,0,0,0
-"U. Mikołaja Kopernika w Toruniu",9,4,0,13,2,4,0,0,0,1,2,3,0,0,0,1,4,1,0,1,1,1,0,1,0,1,0,5,0,0
-"U. Opolski",1,0,1,4,0,5,0,0,1,1,2,0,0,0,1,0,3,1,0,0,0,0,0,0,0,0,1,0,1,0
-"U. Papieski Jana Pawła II w Krakowie",1,0,2,1,1,0,0,11,0,0,1,5,1,0,0,0,0,12,1,1,0,0,0,0,0,0,1,0,5,0
-"U. Pomorski w Słupsku",5,0,1,1,2,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
-"U. Rzeszowski",4,1,1,1,2,0,3,2,1,3,0,1,0,0,13,0,2,1,1,0,0,0,0,0,16,0,0,0,0,1
-"U. Szczeciński",3,1,5,5,0,0,0,1,1,1,1,1,0,0,1,0,0,0,1,0,0,1,1,0,0,3,0,1,0,3
-"U. Warmińsko-Mazurski w Olsztynie",1,1,1,5,1,1,0,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1
-"U. Warszawski",8,20,2,3,2,3,27,0,1,3,4,0,2,1,0,5,2,1,4,0,3,2,12,1,0,4,0,4,3,0
-"U. Wrocławski",10,2,2,6,8,2,0,1,1,10,0,4,0,0,4,1,1,0,3,3,0,3,0,1,0,1,1,1,0,0
-"U. Zielonogórski w Zielonej Górze",3,0,2,2,2,1,0,2,0,2,2,1,0,0,5,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
-"U. w Białymstoku",4,2,0,4,3,0,2,0,0,1,0,1,2,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,1
-"U. w Poznaniu",9,3,45,6,2,3,9,3,1,5,0,2,1,0,6,1,0,1,3,3,0,5,1,2,5,2,0,3,1,0
-"U. w Siedlcach",10,0,0,0,1,2,1,0,0,0,0,3,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,1
-"U. Łódzki",3,2,1,4,9,2,1,3,2,1,0,1,1,0,0,1,1,0,0,3,0,0,1,14,2,0,0,0,0,2
-"U. Śląski w Katowicach",5,0,2,1,2,2,2,1,2,2,1,0,0,0,0,0,1,2,1,1,0,4,0,4,0,0,1,0,5,1
+"","Res Historica","Historia Slavorum Occidentis","Kwartalnik Historyczny","Klio. Czasopismo poświęcone dziejom Polski i powszechnym","Dzieje Najnowsze","Saeculum Christianum","Archiwa Biblioteki i Muzea Kościelne","Przegląd Historyczny","Przegląd Historyczno-Wojskowy","Zeszyty Naukowe Uniwersytetu Jagiellońskiego, Prace Historyczne","Pamięć i Sprawiedliwość","Roczniki Humanistyczne","Studia z Dziejów Rosji i Europy Środkowo-Wschodniej","Kwartalnik Historii Nauki i Techniki","UR JOURNAL OF HUMANITIES AND SOCIAL SCIENCES","Kwartalnik Historii Kultury Materialnej","Wschodni Rocznik Humanistyczny","Perspektywy Kultury","Roczniki Dziejów Społecznych i Gospodarczych","Kwartalnik historii nauki i techniki - Kwartal'nyi zhurnal istorii nauki i tekhniki -","Studia Historica Gedanensia","Quaestiones Medii Aevi Novae","Acta Poloniae Historica","Przegląd Nauk Historycznych","Galicja. Studia i materiały","Studia Źródłoznawcze","Tabularium Historiae","Zapiski Historyczne. Poświęcone Historii Pomorza i Krajów Bałtyckich","Rocznik Filozoficzny Ignatianum","Biografistyka Pedagogiczna"
+"Akademia Sztuki Wojennej",6,0,0,0,0,0,0,0,3,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Inst. Archeologii i Etnologii PAN",3,1,5,0,0,0,0,0,0,0,0,0,0,2,0,9,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+"Inst. Historii",5,4,25,2,16,0,3,4,3,1,4,4,13,0,0,3,3,0,7,6,3,0,9,0,0,8,0,7,1,0
+"Inst. Historii Nauki imienia Ludwika i Aleksa...",0,0,0,2,2,0,2,1,0,0,1,0,1,38,0,2,0,0,1,2,0,0,0,0,0,0,0,0,0,0
+"Inst. Studiów Politycznych PAN",1,0,4,0,4,0,0,4,4,0,1,0,1,0,0,1,1,0,0,2,0,0,1,0,0,0,0,0,0,1
+"Katolicki Uniwersytet Lubelski Jana Pawła II",6,0,0,1,2,1,18,1,3,0,2,17,1,0,1,1,0,2,0,3,2,1,1,2,0,1,0,0,0,6
+"U. Gdański",0,0,2,5,4,2,1,0,1,0,2,0,1,0,0,2,0,0,1,1,21,4,1,0,1,1,0,1,0,0
+"U. Jagielloński w Krakowie",7,10,4,6,7,2,0,4,10,42,2,3,8,0,1,1,5,10,2,0,0,2,2,1,5,4,1,0,2,0
+"U. Jana Długosza w Częstochowie",2,0,1,1,1,1,1,0,2,1,0,0,1,0,2,1,1,0,0,4,0,0,2,1,0,0,0,0,0,0
+"U. Jana Kochanowskiego w Kielcach",7,0,2,2,1,5,3,0,0,1,0,3,2,0,6,1,0,1,0,1,1,0,1,0,0,0,0,0,2,2
+"U. Kaliski",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,5
+"U. Kardynała Stefana Wyszyńskiego w Warszawie",2,0,1,1,0,24,5,2,0,1,3,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,1,0,0
+"U. Kazimierza Wielkiego w Bydgoszczy",0,1,5,0,2,0,1,0,1,1,1,2,3,0,0,0,0,0,0,1,2,2,0,0,0,1,21,1,1,0
+"U. Komisji Edukacji Narodowej w Krakowie",11,2,1,7,5,4,2,1,1,1,4,2,3,0,0,4,4,2,2,0,0,0,0,1,1,0,0,1,1,0
+"U. Marii Curie-Skłodowskiej w Lublinie",67,3,1,2,1,4,0,1,0,0,3,2,1,1,0,3,2,2,0,0,0,4,0,0,0,1,0,0,0,0
+"U. Mikołaja Kopernika w Toruniu",9,0,4,13,2,4,0,0,1,0,3,2,0,0,0,1,4,1,0,1,1,1,0,1,0,1,0,5,0,0
+"U. Opolski",1,1,0,4,0,5,0,0,1,1,0,2,0,0,1,0,3,1,0,0,0,0,0,0,0,0,1,0,1,0
+"U. Papieski Jana Pawła II w Krakowie",1,2,0,1,1,0,11,0,0,0,5,1,1,0,0,0,0,12,1,1,0,0,0,0,0,0,1,0,5,0
+"U. Pomorski w Słupsku",5,1,0,1,2,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+"U. Rzeszowski",4,1,1,1,2,0,2,3,3,1,1,0,0,0,13,0,2,1,1,0,0,0,0,0,16,0,0,0,0,1
+"U. Szczeciński",3,5,1,5,0,0,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,1,1,0,0,3,0,1,0,3
+"U. Warmińsko-Mazurski w Olsztynie",1,1,1,5,1,1,0,0,2,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,1
+"U. Warszawski",8,2,20,3,2,3,0,27,3,1,0,4,2,1,0,5,2,1,4,0,3,2,12,1,0,4,0,4,3,0
+"U. Wrocławski",10,2,2,6,8,2,1,0,10,1,4,0,0,0,4,1,1,0,3,3,0,3,0,1,0,1,1,1,0,0
+"U. Zielonogórski w Zielonej Górze",3,2,0,2,2,1,2,0,2,0,1,2,0,0,5,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+"U. w Białymstoku",4,0,2,4,3,0,0,2,1,0,1,0,2,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,1
+"U. w Poznaniu",9,45,3,6,2,3,3,9,5,1,2,0,1,0,6,1,0,1,3,3,0,5,1,2,5,2,0,3,1,0
+"U. w Siedlcach",10,0,0,0,1,2,0,1,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,1
+"U. Łódzki",3,1,2,4,9,2,3,1,1,2,1,0,1,0,0,1,1,0,0,3,0,0,1,14,2,0,0,0,0,2
+"U. Śląski w Katowicach",5,2,0,1,2,2,1,2,2,2,0,1,0,0,0,0,1,2,1,1,0,4,0,4,0,0,1,0,5,1

@@ -1,51 +1,55 @@
-"","Journal of Clinical Medicine","International Journal of Molecular Sciences","Cancers","Scientific Reports","Polskie Archiwum Medycyny Wewnetrznej","Nutrients","International Journal of Environmental Research and Public Health","Kardiologia Polska","Molecules","Cells","Biomedicines","Frontiers in Immunology","Medical Science Monitor","Vaccines","Cardiology Journal","Frontiers in Endocrinology","Neurologia i Neurochirurgia Polska","Materials","Pharmaceuticals","PLoS ONE","Pediatria Polska","Applied Sciences","Genes","Diagnostics","Archives of Medical Science","Annals of Agricultural and Environmental Medicine","Acta Haematologica Polonica","Biomolecules","Antioxidants","Polski Przegląd Chirurgiczny"
+"","Journal of Clinical Medicine","International Journal of Molecular Sciences","Cancers","Scientific Reports","Polskie Archiwum Medycyny Wewnetrznej","Nutrients","International Journal of Environmental Research and Public Health","Kardiologia Polska","Molecules","Cells","Biomedicines","Frontiers in Immunology","Medical Science Monitor","Vaccines","Cardiology Journal","Frontiers in Endocrinology","Neurologia i Neurochirurgia Polska","Materials","Pharmaceuticals","PLoS ONE","Pediatria Polska","Applied Sciences","Genes","Diagnostics","Archives of Medical Science","Annals of Agricultural and Environmental Medicine","Biomolecules","Acta Haematologica Polonica","Antioxidants","Polski Przegląd Chirurgiczny"
+"Akademia Mazowiecka w Płocku",10,3,0,3,0,1,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 "Akademia Medycznych i Społecznych Nauk Stosow...",4,7,1,2,0,2,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Akademia WSB",9,3,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
 "Akademia Śląska",5,5,2,1,1,1,6,0,0,0,0,0,5,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-"Centrum Medycznego Kształcenia Podyplomowego",55,41,23,11,11,21,10,5,1,3,7,5,1,1,1,8,2,0,1,2,1,0,1,0,5,0,0,1,1,3
-"Gdański Uniwersytet Medyczny",153,144,61,51,43,57,39,37,9,9,31,27,2,9,27,11,11,1,12,12,1,4,3,26,4,2,5,2,9,1
+"Centrum Medycznego Kształcenia Podyplomowego",55,41,23,11,11,21,10,5,1,3,7,5,1,1,1,8,2,0,1,2,1,0,1,0,5,0,1,0,1,3
+"Gdański Uniwersytet Medyczny",153,144,61,51,43,57,39,37,9,9,31,27,2,9,27,11,11,1,12,12,1,4,3,26,4,2,2,5,9,1
 "Inst. ""Centrum Zdrowia Matki Polki""",49,21,8,9,0,5,1,3,1,4,3,2,0,3,0,3,0,0,1,1,2,3,3,0,9,0,0,0,0,0
-"Inst. ""Pomnik - Centrum Zdrowia Dziecka""",24,5,5,2,1,29,1,6,1,1,3,6,1,0,0,2,1,1,0,3,2,0,6,3,0,0,0,1,0,1
+"Inst. ""Pomnik - Centrum Zdrowia Dziecka""",24,5,5,2,1,29,1,6,1,1,3,6,1,0,0,2,1,1,0,3,2,0,6,3,0,0,1,0,0,1
 "Inst. Biologii Medycznej PAN",2,12,4,4,1,0,0,0,5,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"Inst. Farmakologii",3,36,1,8,0,5,2,0,5,9,1,2,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,4,1,0
+"Inst. Farmakologii",3,36,1,8,0,5,2,0,5,9,1,2,0,0,0,0,0,0,4,0,0,0,1,0,0,0,4,0,1,0
 "Inst. Fizjologii i Patologii Słuchu",8,3,0,4,0,0,3,0,0,0,0,1,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
 "Inst. Genetyki Człowieka PAN",6,24,2,13,0,1,2,0,1,1,0,4,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0
 "Inst. Gruźlicy i Chorób Płuc",7,6,1,2,6,1,0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
-"Inst. Hematologii i Transfuzjologii",2,5,6,3,4,1,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0
+"Inst. Hematologii i Transfuzjologii",2,5,6,3,4,1,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0
 "Inst. Immunologii i Terapii Doświadczalnej",8,21,3,7,1,1,0,0,3,4,0,16,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
 "Inst. Matki i Dziecka",20,19,3,3,0,11,4,0,0,4,2,0,1,3,0,1,0,0,0,1,0,0,8,1,0,0,0,0,5,0
-"Inst. Medycyny Doświadczalnej i Klinicznej",5,93,8,16,3,8,3,0,5,18,6,3,0,1,0,0,0,0,3,3,0,1,2,1,0,0,0,4,0,0
+"Inst. Medycyny Doświadczalnej i Klinicznej",5,93,8,16,3,8,3,0,5,18,6,3,0,1,0,0,0,0,3,3,0,1,2,1,0,0,4,0,0,0
 "Inst. Medycyny Wsi",0,14,1,3,0,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,0
-"Inst. Psychiatrii i Neurologii",14,14,1,5,3,0,2,0,0,3,0,0,0,0,0,0,7,0,2,1,0,0,0,0,1,0,0,1,0,0
+"Inst. Psychiatrii i Neurologii",14,14,1,5,3,0,2,0,0,3,0,0,0,0,0,0,7,0,2,1,0,0,0,0,1,0,1,0,0,0
 "Narodowy Instytut Geriatrii, Reumatologii i R...",18,5,0,1,3,2,2,0,0,1,0,7,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-"Narodowy Instytut Kardiologii Stefana Kardyna...",19,1,0,0,16,0,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+"Narodowy Instytut Kardiologii Stefana Kardyna...",19,1,0,0,16,0,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
 "Narodowy Instytut Leków",0,2,0,3,0,0,1,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"Narodowy Instytut Onkologii",20,45,94,18,12,4,6,2,1,9,10,4,3,0,0,7,0,1,4,5,0,1,2,1,3,0,2,1,1,4
-"P. Bydgoska",6,8,6,6,1,2,0,0,4,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+"Narodowy Instytut Onkologii",20,45,94,18,12,4,6,2,1,9,10,4,3,0,0,7,0,1,4,5,0,1,2,1,3,0,1,2,1,4
+"P. Bydgoska",6,8,6,6,1,2,0,0,4,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0
 "P. Wrocławska",33,6,3,4,13,7,0,0,2,1,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 "Państwowy Instytut Medyczny Ministerstwa Spra...",5,0,4,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"Pomorski Uniwersytet Medyczny w Szczecinie",170,138,50,29,10,51,44,5,9,16,16,6,1,1,1,4,2,10,8,3,3,4,12,0,0,0,3,9,3,1
-"U. Jagielloński w Krakowie",188,92,43,68,183,21,33,96,15,13,25,22,9,5,8,25,20,7,5,8,17,12,1,16,13,6,7,11,9,22
+"Pomorski Uniwersytet Medyczny w Szczecinie",170,138,50,29,10,51,44,5,9,16,16,6,1,1,1,4,2,10,8,3,3,4,12,0,0,0,9,3,3,1
+"Społeczna Akademia Nauk w Łodzi",4,1,4,2,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"U. Jagielloński w Krakowie",188,92,43,68,183,21,33,96,15,13,25,22,9,5,8,25,20,7,5,8,17,12,1,16,13,6,11,7,9,22
 "U. Jana Długosza w Częstochowie",3,9,2,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
 "U. Jana Kochanowskiego w Kielcach",42,10,7,7,12,5,9,11,0,2,2,2,2,2,5,0,3,0,2,4,0,0,0,4,4,3,0,0,0,1
 "U. Kardynała Stefana Wyszyńskiego w Warszawie",19,12,4,0,3,2,9,3,0,1,1,2,5,2,3,0,0,0,0,0,0,1,0,1,0,4,0,0,0,0
-"U. Medyczny",324,200,90,69,46,51,49,7,31,38,19,17,9,22,1,5,1,37,10,5,5,7,4,0,3,0,1,9,4,2
-"U. Medyczny w Białymstoku",199,158,45,58,35,41,30,0,15,27,0,20,17,16,0,3,6,3,2,3,1,1,0,0,2,1,0,5,1,1
-"U. Medyczny w Lublinie",202,263,92,68,40,45,62,4,79,41,7,11,34,8,0,0,7,20,4,6,3,1,2,0,2,35,1,6,7,2
-"U. Medyczny w Poznaniu",245,155,60,81,85,83,52,46,24,26,32,21,12,15,8,19,13,6,9,19,18,21,29,21,11,6,9,4,8,23
-"U. Medyczny w Łodzi",278,229,68,61,41,77,45,11,34,23,26,25,2,8,4,5,2,32,6,5,3,9,4,0,2,7,5,4,12,6
-"U. Mikołaja Kopernika w Toruniu",107,68,28,26,14,25,10,5,17,9,15,7,3,5,21,2,1,5,3,7,9,2,1,1,1,0,31,5,10,4
+"U. Medyczny",324,200,90,69,46,51,49,7,31,38,19,17,9,22,1,5,1,37,10,5,5,7,4,0,3,0,9,1,4,2
+"U. Medyczny w Białymstoku",199,158,45,58,35,41,30,0,15,27,0,20,17,16,0,3,6,3,2,3,1,1,0,0,2,1,5,0,1,1
+"U. Medyczny w Lublinie",202,263,92,68,40,45,62,4,79,41,7,11,34,8,0,0,7,20,4,6,3,1,2,0,2,35,6,1,7,2
+"U. Medyczny w Poznaniu",245,155,60,81,85,83,52,46,24,26,32,21,12,15,8,19,13,6,9,19,18,21,29,21,11,6,4,9,8,23
+"U. Medyczny w Łodzi",278,229,68,61,41,77,45,11,34,23,26,25,2,8,4,5,2,32,6,5,3,9,4,0,2,7,4,5,12,6
+"U. Mikołaja Kopernika w Toruniu",107,68,28,26,14,25,10,5,17,9,15,7,3,5,21,2,1,5,3,7,9,2,1,1,1,0,5,31,10,4
 "U. Opolski",26,11,4,2,4,3,1,8,0,1,3,0,0,3,2,2,0,0,0,2,5,1,1,0,4,0,0,0,0,1
 "U. Pomorski w Słupsku",10,2,0,1,1,0,4,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 "U. Radomski",1,5,2,2,0,2,0,1,3,0,0,0,1,0,0,0,0,0,0,1,0,3,0,1,0,0,0,0,0,0
 "U. Rzeszowski",28,55,16,16,8,12,12,4,13,2,5,1,5,5,0,1,1,1,1,1,2,0,2,0,0,0,0,0,4,0
-"U. Warmińsko-Mazurski w Olsztynie",37,32,16,14,2,17,14,4,2,12,9,1,17,2,1,1,4,1,2,6,0,0,0,2,2,0,0,3,1,1
+"U. Warmińsko-Mazurski w Olsztynie",37,32,16,14,2,17,14,4,2,12,9,1,17,2,1,1,4,1,2,6,0,0,0,2,2,0,3,0,1,1
 "U. Wrocławski",0,10,1,3,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0
-"U. Zielonogórski w Zielonej Górze",19,16,16,6,1,2,5,3,0,3,1,0,1,0,0,1,3,0,0,0,0,0,1,0,0,2,2,0,0,1
+"U. Zielonogórski w Zielonej Górze",19,16,16,6,1,2,5,3,0,3,1,0,1,0,0,1,3,0,0,0,0,0,1,0,0,2,0,2,0,1
+"U. w Poznaniu",1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 "Uczelnia Medyczna w Warszawie",5,8,4,2,0,1,3,0,0,1,0,0,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 "Uczelnia Łazarskiego w Warszawie",6,14,1,4,3,1,4,0,2,0,0,0,1,0,0,0,1,0,0,0,0,3,0,0,0,1,0,0,0,1
-"Warszawski Uniwersytet Medyczny",278,207,59,77,81,61,56,83,17,22,28,22,24,34,37,19,32,2,8,16,21,7,9,25,14,8,5,9,2,9
+"Warszawski Uniwersytet Medyczny",278,207,59,77,81,61,56,83,17,22,28,22,24,34,37,19,32,2,8,16,21,7,9,25,14,8,9,5,2,9
 "Wielkopolskie Centrum Onkologii",0,2,2,6,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
 "Wojskowy Instytut Medycyny Lotniczej",3,3,0,2,0,2,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0
 "Wojskowy Instytut Medyczny PIB",53,12,12,14,15,10,4,0,1,5,0,8,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-"Wyższa Szkoła Informatyki i Zarządzania w Rze...",1,14,1,2,0,1,3,0,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,2,0
-"Śląski Uniwersytet Medyczny w Katowicach",294,163,61,41,72,62,68,87,25,16,55,6,20,13,21,21,20,7,36,10,27,25,11,0,19,7,10,11,9,5
+"Wyższa Szkoła Informatyki i Zarządzania w Rze...",1,14,1,2,0,1,3,0,21,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0
+"Śląski Uniwersytet Medyczny w Katowicach",294,163,61,41,72,62,68,87,25,16,55,6,20,13,21,21,20,7,36,10,27,25,11,0,19,7,11,10,9,5
