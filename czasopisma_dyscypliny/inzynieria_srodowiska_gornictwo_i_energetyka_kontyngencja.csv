@@ -1,0 +1,42 @@
+"","Energies","Materials","Sustainability","Energy","Scientific Reports","Applied Sciences","Desalination and Water Treatment","Science of the Total Environment","Nafta-Gaz","Instal","Water","Journal of Environmental Management","International Journal of Environmental Research and Public Health","Rynek Energii","Gospodarka Surowcami Mineralnymi / Mineral Resources Management","Journal of Water and Land Development","Archives of Environmental Protection","Molecules","International Journal of Hydrogen Energy","Applied Thermal Engineering","Przemysł Chemiczny","Archives of Mining Sciences","Zeszyty Naukowe SGSP","Ecological Indicators","Sensors","Minerals","Water Resources and Industry","Gaz, Woda i Technika Sanitarna","Fuel","Renewable Energy"
+"""Poltegor-Instytut"" Instytut Górnictwa Odkryw...",5,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+"AGH w Krakowie",245,37,27,24,25,37,8,10,0,3,8,6,3,6,24,6,1,8,12,9,7,11,0,2,2,14,4,1,7,10
+"Akademia Pożarnicza",7,9,3,0,5,2,0,1,0,0,0,0,4,0,0,1,2,0,0,0,0,0,9,1,1,0,0,0,1,0
+"Centralny Instytut Ochrony Pracy PIB",5,19,1,0,4,8,0,3,0,1,0,0,15,3,0,0,0,2,0,0,15,0,1,0,3,0,0,0,0,0
+"Centrum Naukowo-Badawcze Ochrony Przeciwpożar...",4,10,1,0,3,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,6,0,0,0,0,0,0,0
+"Główny Instytut Górnictwa PIB",34,10,14,5,13,4,4,10,0,2,4,2,7,3,3,1,4,3,1,0,4,16,0,0,1,4,2,0,3,1
+"Inst. Ekologii Terenów Uprzemysłowionych",2,0,6,0,0,3,0,0,0,0,2,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Inst. Energetyki – PIB",15,6,0,1,2,2,0,0,0,8,0,1,0,6,0,0,0,0,8,0,0,0,0,0,0,0,0,1,2,0
+"Inst. Gospodarki Surowcami Mineralnymi i Ener...",46,6,10,2,3,5,3,0,0,0,1,1,0,1,32,0,0,0,8,0,1,0,0,0,0,2,2,0,1,1
+"Inst. Mechaniki Górotworu PAN",12,5,3,1,0,4,1,0,0,0,0,0,0,0,2,0,2,0,0,0,0,19,0,0,3,1,0,0,0,0
+"Inst. Meteorologii i Gospodarki Wodnej PIB",1,1,4,1,4,0,0,2,0,0,6,1,1,0,0,0,1,0,0,0,0,0,2,1,0,0,2,1,0,0
+"Inst. Nafty i Gazu PIB",46,4,3,0,5,14,0,0,151,0,0,2,0,11,0,0,0,2,3,0,17,0,0,0,1,0,0,0,0,0
+"Inst. Ochrony Środowiska PIB",5,0,2,0,3,0,0,10,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+"Inst. Podstaw Inżynierii Środowiska PAN",1,0,2,0,5,2,8,2,0,0,2,1,0,0,0,0,15,7,0,0,0,0,8,0,0,0,0,0,0,0
+"Inst. Techniki Górniczej KOMAG",14,4,0,0,2,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+"Inst. Technologiczno-Przyrodniczy PIB",27,1,4,1,0,1,1,2,0,0,0,2,0,0,0,8,2,0,0,0,0,0,0,0,0,0,0,0,2,0
+"Inst. Technologii Paliw i Energii",25,3,2,7,0,1,1,0,0,0,1,1,0,2,0,0,0,0,0,0,1,0,1,0,0,2,0,0,2,1
+"Narodowe Centrum Badań Jądrowych",7,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+"P. Białostocka",68,23,1,2,14,1,2,5,0,0,0,1,6,0,0,0,1,0,0,2,0,0,0,2,0,1,4,0,0,0
+"P. Częstochowska",41,20,7,8,1,4,43,1,0,7,6,4,2,1,0,0,2,5,0,1,0,0,0,0,0,0,0,0,1,0
+"P. Gdańska",6,1,0,3,6,0,0,20,0,0,0,14,1,0,0,0,0,0,0,2,0,0,0,0,0,0,9,2,0,0
+"P. Krakowska",39,11,12,42,2,9,14,4,0,10,10,2,2,1,1,3,1,2,1,2,1,0,0,0,4,0,1,1,0,1
+"P. Lubelska",47,5,3,2,4,2,6,1,0,0,2,1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,4,1,0
+"P. Opolska",28,4,1,9,5,1,1,1,0,1,2,0,0,0,1,0,1,0,2,3,1,0,0,0,0,0,1,0,1,4
+"P. Poznańska",90,25,4,8,1,6,6,10,0,3,1,1,4,1,0,0,3,1,0,2,0,0,0,1,0,0,0,2,1,1
+"P. Rzeszowska",37,14,5,2,4,2,8,5,0,2,13,4,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"P. Warszawska",53,6,13,15,4,12,11,4,0,14,12,4,2,15,0,1,3,0,11,7,5,0,0,1,4,1,0,12,2,6
+"P. Wrocławska",98,20,28,24,13,30,5,10,0,62,12,2,1,22,1,0,5,1,4,11,2,4,8,1,21,9,8,14,9,2
+"P. Śląska",120,28,9,63,10,23,48,9,0,8,8,12,8,10,8,1,6,4,9,17,0,7,2,0,5,7,2,1,8,10
+"P. Świętokrzyska",31,12,2,2,0,0,1,2,0,3,0,0,2,0,0,0,1,0,0,0,0,1,0,1,0,2,1,2,0,0
+"SGGW w Warszawie",6,6,34,1,10,3,9,12,0,0,12,4,3,0,0,14,2,1,0,1,0,0,13,9,0,1,0,0,0,0
+"U. Bielsko-Bialski",4,8,1,0,2,2,1,1,0,3,0,0,0,0,0,1,0,1,0,0,0,0,3,1,0,0,0,0,0,0
+"U. Jana Długosza w Częstochowie",12,7,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0
+"U. Opolski",14,1,4,0,8,6,4,1,0,0,0,0,1,0,0,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0
+"U. Przyrodniczy w Lublinie",40,8,6,3,9,6,2,1,0,0,8,5,5,0,0,0,0,1,0,0,1,0,0,4,0,0,0,0,0,0
+"U. Przyrodniczy w Poznaniu",38,14,9,5,15,2,0,11,0,0,12,2,5,0,0,0,0,1,0,0,0,0,0,10,2,0,1,0,0,2
+"U. Przyrodniczy we Wrocławiu",17,33,10,1,20,0,2,9,0,1,7,6,3,2,0,4,1,3,0,0,1,0,0,3,0,0,5,0,1,0
+"U. Rolniczy w Krakowie",44,13,18,1,8,5,1,12,0,2,7,9,5,1,0,18,2,1,0,0,1,0,0,4,0,0,1,0,0,0
+"U. Warmińsko-Mazurski w Olsztynie",49,4,1,1,6,4,0,20,0,0,0,6,8,0,0,0,0,8,0,0,0,0,0,4,0,0,1,0,1,1
+"U. Zielonogórski w Zielonej Górze",16,0,0,4,1,1,0,2,0,0,1,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+"Zachodniopomorski Uniwersytet Technologiczny ...",17,5,1,0,2,5,2,0,0,13,3,0,0,0,0,9,0,5,0,0,0,0,0,0,1,0,0,1,0,0
