@@ -2,9 +2,10 @@
 
 Podsumowanie artykułów naukowych zgłoszonych przez polskie podmioty do ewaluacji jakości działalności naukowej za lata 2022-2025 (dane z 11.09.2026). Dla każdej dyscypliny pokazano najczęściej wykorzystywane czasopisma oraz mapę ciepła „podmiot x czasopismo”.
 
-Podstawa: **182 057 artykułów**, 55 dyscyplin, 9 336 tytułów czasopism (po scaleniu wariantów zapisu). Monografie, rozdziały i redakcje naukowe nie są uwzględniane. 
-
 Dane: https://zenodo.org/records/22688357
+
+Do analizy trafiło: 182 057 artykułów, 55 dyscyplin, 9 336 tytułów czasopism (po scaleniu wariantów zapisu). Monografie, rozdziały i redakcje naukowe nie są uwzględniane. 
+
 
 ## Disclaimer
 
@@ -19,12 +20,12 @@ Dane: https://zenodo.org/records/22688357
 
 ## Jak czytać wyniki
 
-- **% udziału** to odsetek wszystkich artykułów danej dyscypliny opublikowanych w danym czasopiśmie.
-- Gwiazdka (`*`) oznacza czasopismo wydawane przez **MDPI**; przynależność ustalana jest na podstawie ręcznej listy tytułów zawartej w skrypcie.
+- % udziału to odsetek wszystkich artykułów danej dyscypliny opublikowanych w danym czasopiśmie.
+- Gwiazdka (`*`) oznacza czasopismo wydawane przez MDPI; przynależność ustalana jest na podstawie ręcznej listy tytułów zawartej w skrypcie.
 - Mapa ciepła pokazuje, jaki procent dorobku danego podmiotu przypada na poszczególne czasopisma (wiersze sumują się do 100% w obrębie 30 najczęstszych tytułów). Uwzględnia podmioty z co najmniej 30 artykułami w dyscyplinie.
 - Pliki CSV: `*_kontyngencja.csv` – surowa tabela podmiot × czasopismo, `*_podmioty.csv` – zestawienie podmiotów (liczba artykułów, udział MDPI, liczba N, ocena w kryterium I).
 - Kod źródłowy: [`analiza_czasopism_wg_dyscyplin.R`](analiza_czasopism_wg_dyscyplin.R). Zbiorcze podsumowanie: [`_podsumowanie_dyscyplin.csv`](czasopisma_dyscypliny/_podsumowanie_dyscyplin.csv).
-- W dyscyplinach *informatyka* oraz *informatyka techniczna i telekomunikacja* dodatkowa sekcja pokazuje **materiały konferencyjne**, z podziałem konferencji na rangę CORE A\* i pozostałe (w informatyce konferencje są równorzędnym kanałem publikacji).
+- W dyscyplinach *informatyka* oraz *informatyka techniczna i telekomunikacja* dodatkowa sekcja pokazuje *materiały konferencyjne*, z podziałem konferencji na rangę CORE A\* i pozostałe (w informatyce konferencje są równorzędnym kanałem publikacji).
 
 ![Udział MDPI według dyscyplin](czasopisma_dyscypliny/_mdpi_wg_dyscyplin.png)
 
