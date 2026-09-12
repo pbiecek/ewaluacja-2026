@@ -11,18 +11,18 @@ Podstawa: **182 057 artykułów**, 55 dyscyplin, 9 336 tytułów czasopism (po s
 - Mapa ciepła pokazuje, jaki procent dorobku danego podmiotu przypada na poszczególne czasopisma (wiersze sumują się do 100% w obrębie 30 najczęstszych tytułów). Uwzględnia podmioty z co najmniej 30 artykułami w dyscyplinie.
 - Pliki CSV: `*_kontyngencja.csv` – surowa tabela podmiot × czasopismo, `*_podmioty.csv` – zestawienie podmiotów (liczba artykułów, udział MDPI, liczba N, ocena w kryterium I).
 - Kod źródłowy: [`analiza_czasopism_wg_dyscyplin.R`](analiza_czasopism_wg_dyscyplin.R). Zbiorcze podsumowanie: [`_podsumowanie_dyscyplin.csv`](czasopisma_dyscypliny/_podsumowanie_dyscyplin.csv).
+- W dyscyplinach *informatyka* oraz *informatyka techniczna i telekomunikacja* dodatkowa sekcja pokazuje **materiały konferencyjne**, z podziałem konferencji na rangę CORE A\* i pozostałe (w informatyce konferencje są równorzędnym kanałem publikacji).
 
 ![Udział MDPI według dyscyplin](czasopisma_dyscypliny/_mdpi_wg_dyscyplin.png)
 
 ## Disclaimer
 
-W poniższym podsumowaniu wyróżniam czasopisma ze stajni MDPI, ale głównie dlatego, że obecna dyskusja toczy się wokół tego wydawcy. 
-
-Analizując wyniki należy zachować dużą ostrożność we wrzucaniu wszystkich czasopism jednego wydawcy do jednego worka. O jakości czasopisma świadczy wiele czynników takich jak skład komitetu programowego, doświadczenie i rzetelność edytorów jak i jakość prac zgłaszanych do danego czasopisma. Zarówno w MDPI jak i u innych wydawców znaleźć można dobre i słabe czasopisma, dobre i słabe artykuły. 
-
-Poniższa analiza ma na celu umożliwienie zlokalizowanie sytuacji, którym warto się przyjrzeć bliżej (profil publikacji odbiegający od publikacji typowych dla najlepszych uczelni, koncentracja na małej licznie czasopism).
-
-Wykresy przedstawiają tylko najpopularniejsze czasopisma w danej dyscyplinie. Jeżeli jakiegoś brakuje, to nie znaczy że nikt tam nie publikuje, tylko, że nie uzbierało się wystarczająco wiele prac by dane czasopismo znalazło się w podsumowaniu.
+- W poniższym podsumowaniu wyróżniam czasopisma ze stajni MDPI, ale głównie dlatego, że obecna dyskusja toczy się wokół tego wydawcy. 
+- Analizując wyniki należy zachować dużą ostrożność we wrzucaniu wszystkich czasopism jednego wydawcy do jednego worka. O jakości czasopisma świadczy wiele czynników takich jak skład komitetu programowego, doświadczenie i rzetelność edytorów jak i jakość prac zgłaszanych do danego czasopisma. Zarówno w MDPI jak i u innych wydawców znaleźć można dobre i słabe czasopisma, dobre i słabe artykuły. 
+- Poniższe wizualizacje mają na celu umożliwienie zlokalizowanie sytuacji, którym warto się przyjrzeć bliżej (profil publikacji odbiegający od publikacji typowych dla najlepszych uczelni, koncentracja na małej licznie czasopism).
+- Wykresy przedstawiają tylko najpopularniejsze czasopisma w danej dyscyplinie. Jeżeli jakiegoś brakuje, to nie znaczy że nikt tam nie publikuje, tylko, że nie uzbierało się wystarczająco wiele prac by dane czasopismo znalazło się w podsumowaniu.
+- Analiza była możliwa ponieważ MNiSW udostępniło dane z parametryzacji (https://t.co/RksPLVbtZN). Doceniam. Dziękuję @DrAGrabowski za namiary na dane.
+- Automatyzacja wspierana AI (od firmy na tę samą literę). Wszystkie wyniki generowane przez R a wykresy bazują na ggplot.
 
 
 ## Spis treści
@@ -297,6 +297,24 @@ Artykuły: **371** · podmioty: **11** · czasopisma: **177** · udział MDPI: *
 
 Dane: [tabela podmiot × czasopismo](czasopisma_dyscypliny/informatyka_kontyngencja.csv) · [zestawienie podmiotów](czasopisma_dyscypliny/informatyka_podmioty.csv) · [analiza korespondencji](czasopisma_dyscypliny/informatyka_korespondencja.png)
 
+### Materiały konferencyjne
+
+Materiały konferencyjne: **557** · podmioty: **11** · konferencje: **109** · udział konferencji rangi CORE A\*: **48.3%**
+
+W tej tabeli gwiazdka (`*`) oznacza konferencję rangi **CORE A\***, a nie wydawcę MDPI.
+
+| # | Konferencja | Materiały | % udziału |
+|---|-------------|----------:|----------:|
+| 1 | International Conference on Computational Science | 52 | 9.3% |
+| 2 | IEEE Symposium on Logic in Computer Science \* | 34 | 6.1% |
+| 3 | International Conference on Information Systems Development | 27 | 4.8% |
+| 4 | National Conference of the American Association for Artificial Intelligence \* | 26 | 4.7% |
+| 5 | ACM/SIAM Symposium on Discrete Algorithms \* | 23 | 4.1% |
+
+![Mapa ciepła konferencji – informatyka](czasopisma_dyscypliny/informatyka_konferencje_heatmapa.png)
+
+Dane: [tabela podmiot × konferencja](czasopisma_dyscypliny/informatyka_konferencje_kontyngencja.csv) · [zestawienie podmiotów](czasopisma_dyscypliny/informatyka_konferencje_podmioty.csv) · [analiza korespondencji](czasopisma_dyscypliny/informatyka_konferencje_korespondencja.png)
+
 [↑ spis treści](#spis-treści)
 
 ## Informatyka techniczna i telekomunikacja
@@ -315,6 +333,24 @@ Artykuły: **4 358** · podmioty: **46** · czasopisma: **759** · udział MDPI:
 
 Dane: [tabela podmiot × czasopismo](czasopisma_dyscypliny/informatyka_techniczna_i_telekomunikacja_kontyngencja.csv) · [zestawienie podmiotów](czasopisma_dyscypliny/informatyka_techniczna_i_telekomunikacja_podmioty.csv) · [analiza korespondencji](czasopisma_dyscypliny/informatyka_techniczna_i_telekomunikacja_korespondencja.png)
 
+### Materiały konferencyjne
+
+Materiały konferencyjne: **1 829** · podmioty: **46** · konferencje: **203** · udział konferencji rangi CORE A\*: **18.8%**
+
+W tej tabeli gwiazdka (`*`) oznacza konferencję rangi **CORE A\***, a nie wydawcę MDPI.
+
+| # | Konferencja | Materiały | % udziału |
+|---|-------------|----------:|----------:|
+| 1 | International Conference on Computational Science | 317 | 17.3% |
+| 2 | International Conference on Information Systems Development | 122 | 6.7% |
+| 3 | International Conference on Knowledge-Based and Intelligent Information and Engineering Systems | 117 | 6.4% |
+| 4 | European Conference on Artificial Intelligence | 94 | 5.1% |
+| 5 | Genetic and Evolutionary Computations | 68 | 3.7% |
+
+![Mapa ciepła konferencji – informatyka techniczna i telekomunikacja](czasopisma_dyscypliny/informatyka_techniczna_i_telekomunikacja_konferencje_heatmapa.png)
+
+Dane: [tabela podmiot × konferencja](czasopisma_dyscypliny/informatyka_techniczna_i_telekomunikacja_konferencje_kontyngencja.csv) · [zestawienie podmiotów](czasopisma_dyscypliny/informatyka_techniczna_i_telekomunikacja_konferencje_podmioty.csv) · [analiza korespondencji](czasopisma_dyscypliny/informatyka_techniczna_i_telekomunikacja_konferencje_korespondencja.png)
+
 [↑ spis treści](#spis-treści)
 
 ## Inżynieria bezpieczeństwa
@@ -329,9 +365,9 @@ Artykuły: **91** · podmioty: **3** · czasopisma: **46** · udział MDPI: **22
 | 4 | Energies \* | 5 | 5.5% |
 | 5 | Scientific Reports | 5 | 5.5% |
 
-_Mapa ciepła nie została wygenerowana – zbyt mało podmiotów z co najmniej 30 artykułami._
+![Mapa ciepła – inżynieria bezpieczeństwa](czasopisma_dyscypliny/inzynieria_bezpieczenstwa_heatmapa.png)
 
-Dane: [zestawienie podmiotów](czasopisma_dyscypliny/inzynieria_bezpieczenstwa_podmioty.csv)
+Dane: [tabela podmiot × czasopismo](czasopisma_dyscypliny/inzynieria_bezpieczenstwa_kontyngencja.csv) · [zestawienie podmiotów](czasopisma_dyscypliny/inzynieria_bezpieczenstwa_podmioty.csv)
 
 [↑ spis treści](#spis-treści)
 
@@ -509,7 +545,7 @@ Artykuły: **50** · podmioty: **2** · czasopisma: **13** · udział MDPI: **0.
 | 4 | Collectanea Theologica | 4 | 8.0% |
 | 5 | Biblica et Patristica Thoruniensia | 3 | 6.0% |
 
-_Mapa ciepła nie została wygenerowana – zbyt mało podmiotów z co najmniej 30 artykułami._
+_Mapa ciepła nie została wygenerowana – zbyt mało podmiotów lub czasopism w dyscyplinie._
 
 Dane: [zestawienie podmiotów](czasopisma_dyscypliny/nauki_biblijne_podmioty.csv)
 
@@ -725,9 +761,9 @@ Artykuły: **160** · podmioty: **6** · czasopisma: **72** · udział MDPI: **1
 | 4 | Person and the Challenges-The Journal of Theology Education Canon Law and Social Studies Inspired by Pope John Paul II | 6 | 3.8% |
 | 5 | Biografistyka Pedagogiczna | 5 | 3.1% |
 
-_Mapa ciepła nie została wygenerowana – zbyt mało podmiotów z co najmniej 30 artykułami._
+![Mapa ciepła – nauki o rodzinie](czasopisma_dyscypliny/nauki_o_rodzinie_heatmapa.png)
 
-Dane: [zestawienie podmiotów](czasopisma_dyscypliny/nauki_o_rodzinie_podmioty.csv)
+Dane: [tabela podmiot × czasopismo](czasopisma_dyscypliny/nauki_o_rodzinie_kontyngencja.csv) · [zestawienie podmiotów](czasopisma_dyscypliny/nauki_o_rodzinie_podmioty.csv) · [analiza korespondencji](czasopisma_dyscypliny/nauki_o_rodzinie_korespondencja.png)
 
 [↑ spis treści](#spis-treści)
 
@@ -889,7 +925,7 @@ Artykuły: **163** · podmioty: **4** · czasopisma: **77** · udział MDPI: **0
 
 ![Mapa ciepła – polonistyka](czasopisma_dyscypliny/polonistyka_heatmapa.png)
 
-Dane: [tabela podmiot × czasopismo](czasopisma_dyscypliny/polonistyka_kontyngencja.csv) · [zestawienie podmiotów](czasopisma_dyscypliny/polonistyka_podmioty.csv)
+Dane: [tabela podmiot × czasopismo](czasopisma_dyscypliny/polonistyka_kontyngencja.csv) · [zestawienie podmiotów](czasopisma_dyscypliny/polonistyka_podmioty.csv) · [analiza korespondencji](czasopisma_dyscypliny/polonistyka_korespondencja.png)
 
 [↑ spis treści](#spis-treści)
 
@@ -974,7 +1010,7 @@ Artykuły: **3** · podmioty: **1** · czasopisma: **2** · udział MDPI: **0.0%
 | 1 | Magazyn Filmowy Stowarzyszenia Filmowców Polskich | 2 | 66.7% |
 | 2 | Culture Management | 1 | 33.3% |
 
-_Mapa ciepła nie została wygenerowana – zbyt mało podmiotów z co najmniej 30 artykułami._
+_Mapa ciepła nie została wygenerowana – zbyt mało podmiotów lub czasopism w dyscyplinie._
 
 Dane: [zestawienie podmiotów](czasopisma_dyscypliny/sztuki_filmowe_i_teatralne_podmioty.csv)
 
@@ -992,9 +1028,9 @@ Artykuły: **7** · podmioty: **4** · czasopisma: **5** · udział MDPI: **0.0%
 | 4 | UczMy - Kujawsko-Pomorski Przegląd Oświatowy | 1 | 14.3% |
 | 5 | Zbornik radova Akademije umetnosti | 1 | 14.3% |
 
-_Mapa ciepła nie została wygenerowana – zbyt mało podmiotów z co najmniej 30 artykułami._
+![Mapa ciepła – sztuki muzyczne](czasopisma_dyscypliny/sztuki_muzyczne_heatmapa.png)
 
-Dane: [zestawienie podmiotów](czasopisma_dyscypliny/sztuki_muzyczne_podmioty.csv)
+Dane: [tabela podmiot × czasopismo](czasopisma_dyscypliny/sztuki_muzyczne_kontyngencja.csv) · [zestawienie podmiotów](czasopisma_dyscypliny/sztuki_muzyczne_podmioty.csv) · [analiza korespondencji](czasopisma_dyscypliny/sztuki_muzyczne_korespondencja.png)
 
 [↑ spis treści](#spis-treści)
 
@@ -1010,9 +1046,9 @@ Artykuły: **20** · podmioty: **8** · czasopisma: **16** · udział MDPI: **0.
 | 4 | Dendrochronologia | 1 | 5.0% |
 | 5 | Formy | 1 | 5.0% |
 
-_Mapa ciepła nie została wygenerowana – zbyt mało podmiotów z co najmniej 30 artykułami._
+![Mapa ciepła – sztuki plastyczne i konserwacja dzieł sztuki](czasopisma_dyscypliny/sztuki_plastyczne_i_konserwacja_dziel_sztuki_heatmapa.png)
 
-Dane: [zestawienie podmiotów](czasopisma_dyscypliny/sztuki_plastyczne_i_konserwacja_dziel_sztuki_podmioty.csv)
+Dane: [tabela podmiot × czasopismo](czasopisma_dyscypliny/sztuki_plastyczne_i_konserwacja_dziel_sztuki_kontyngencja.csv) · [zestawienie podmiotów](czasopisma_dyscypliny/sztuki_plastyczne_i_konserwacja_dziel_sztuki_podmioty.csv) · [analiza korespondencji](czasopisma_dyscypliny/sztuki_plastyczne_i_konserwacja_dziel_sztuki_korespondencja.png)
 
 [↑ spis treści](#spis-treści)
 
