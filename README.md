@@ -17,6 +17,8 @@ Podstawa: **182 057 artykułów**, 55 dyscyplin, 9 336 tytułów czasopism (po s
 
 ## Disclaimer
 
+- Analizy przygotowane na własny osobisty użytek. **Nie daję żadnych gwarancji, że ta hobbystyczna analiza jest w 100% poprawna. Jeżeli chce się z niej skorzystać warto samemu sprawdzić odpowiednie statystyki.**
+- Informacje o ewentualnych błędach proszę zgłaszać przez issuesy. Można forkować i modfikować dowoli. Licencja CC-BY-SA-NC.
 - W poniższym podsumowaniu wyróżniam czasopisma ze stajni MDPI, ale głównie dlatego, że obecna dyskusja toczy się wokół tego wydawcy. 
 - Analizując wyniki należy zachować dużą ostrożność we wrzucaniu wszystkich czasopism jednego wydawcy do jednego worka. O jakości czasopisma świadczy wiele czynników takich jak skład komitetu programowego, doświadczenie i rzetelność edytorów jak i jakość prac zgłaszanych do danego czasopisma. Zarówno w MDPI jak i u innych wydawców znaleźć można dobre i słabe czasopisma, dobre i słabe artykuły. 
 - Poniższe wizualizacje mają na celu umożliwienie zlokalizowanie sytuacji, którym warto się przyjrzeć bliżej (profil publikacji odbiegający od publikacji typowych dla najlepszych uczelni, koncentracja na małej licznie czasopism).
